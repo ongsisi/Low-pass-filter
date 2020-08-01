@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s15ftgb196-1" LaunchTime="1596277688">
+  <File Type="BITSTR-BMM" Name="LowFilter_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="LowFilter_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="LowFilter_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="LowFilter_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="LowFilter.tcl"/>
+  <File Type="OPT-TIMING" Name="LowFilter_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="LowFilter_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="LowFilter_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="LowFilter_reports.tcl"/>
+  <File Type="OPT-DRC" Name="LowFilter_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="LowFilter.hwdef"/>
+  <File Type="PWROPT-DCP" Name="LowFilter_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="LowFilter_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="LowFilter_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="LowFilter_placed.dcp"/>
+  <File Type="PLACE-IO" Name="LowFilter_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="LowFilter_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="LowFilter_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="LowFilter_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="LowFilter_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="LowFilter_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="LowFilter_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="LowFilter.bgn"/>
+  <File Type="PLACE-TIMING" Name="LowFilter_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="LowFilter_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="LowFilter.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="LowFilter_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="LowFilter_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="LowFilter_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="LowFilter.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="LowFilter_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="LowFilter_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="LowFilter_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="LowFilter_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="LowFilter_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="LowFilter_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="LowFilter.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="LowFilter_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="LowFilter.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="LowFilter_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="LowFilter_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="LowFilter.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="LowFilter_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="LowFilter_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="LowFilter_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="LowFilter_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="LowFilter_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="LowFilter_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="LowFilter_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="LowFilter_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="LowFilter_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="LowFilter_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="LowFilter_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="LowFilter_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="LowFilter_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="LowFilter_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="LowFilter_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="LowFilter_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="LowFilter_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="LowFilter_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="LowFilter_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="LowFilter.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="LowFilter_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="LowFilter.rbt"/>
+  <File Type="BITSTR-NKY" Name="LowFilter.nky"/>
+  <File Type="BG-DRC" Name="LowFilter.drc"/>
+  <File Type="RDI-RDI" Name="LowFilter.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ADC_Driver.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/DAC_Driver.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Fir.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/LowFilter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/Sin_Wave_Rom.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/ip/Clk_Division_0_1/Clk_Division_0.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/ip/Clk_Division_1/Clk_Division_1.xci">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="LowFilter"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="Wave_Ram"/>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
+</GenRun>
